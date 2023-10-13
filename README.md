@@ -38,11 +38,10 @@ The user's profile information will be displayed.
 ## Screenshots
 
 ### Desktop version
-![image](https://github.com/cesourcile/ama_exercise/assets/98766071/8cf724e5-e91f-4dc0-b453-78891fd38a58)
+![image](https://github.com/cesourcile/ama_exercise/assets/98766071/91da7043-b9c8-4956-87bb-27a76abdea51)
 
 ### Mobile version
-![image](https://github.com/cesourcile/ama_exercise/assets/98766071/246fbf0c-d1ad-4602-a8e4-61e6130ea70e)
-
+![image](https://github.com/cesourcile/ama_exercise/assets/98766071/4dd9566f-92e2-4c93-a276-8eb44211266c)
 
 ## Credits
 

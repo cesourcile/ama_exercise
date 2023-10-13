@@ -1,0 +1,13 @@
+.about_user_part {
+  display: grid;
+  grid-template-rows: 30% auto 3em;
+  grid-template-columns: 30% auto;
+  grid-row-gap: 1.5em;
+}
+
+.profile_image_container {
+  grid-row: 1;
+  grid-column: 1;
+}
+
+/*# sourceMappingURL=grid.css.map */

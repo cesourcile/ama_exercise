@@ -22,11 +22,11 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/dev-finder.git
+   git clone https://github.com/cesourcile/ama_exercise.git
    ```
 2. Open the project directory:
    ```bash
-   cd dev-finder
+   cd ama_exercise
    ```
 3. Open index.html in your web browser.
 
